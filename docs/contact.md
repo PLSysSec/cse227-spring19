@@ -6,7 +6,7 @@ email.
 
 ### Course mailing list
 
-- **Mailman:** TBA
+- **Sign up:** <https://mailman.ucsd.edu/mailman/listinfo/cse227-spring19-l>
 
 ### Instructor
 
