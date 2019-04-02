@@ -7,7 +7,7 @@ email.
 
 ### Course mailing list
 
-- **Google forum:** [ucsd-cse227-spring19](https://groups.google.com/forum/#!forum/ucsd-cse227-winter19)
+- **Google forum:** [ucsd-cse227-spring19](https://groups.google.com/forum/#!forum/ucsd-cse227-spring19)
 
 ### Instructor
 
