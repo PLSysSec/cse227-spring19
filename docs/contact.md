@@ -1,13 +1,12 @@
-For general information and questions, please post to the class
-[forum](https://groups.google.com/forum/#!forum/ucsd-cse227-spring19).  It's
-likely that other students will have the same question. We will post
+For general information and questions, please post to the class mailing list.
+It's likely that other students will have the same question. We will post
 announcements on the forum (in addition to the course page), so please make
 sure to sign up.  For urgent or personal matters matters, please contact us by
 email.
 
 ### Course mailing list
 
-- **Google forum:** [ucsd-cse227-spring19](https://groups.google.com/forum/#!forum/ucsd-cse227-spring19)
+- **Mailman:** TBA
 
 ### Instructor
 
