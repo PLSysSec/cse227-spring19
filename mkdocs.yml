@@ -26,7 +26,7 @@ markdown_extensions:
 extra_css:
   - css/extra.css
 
-pages:
+nav:
   - About: index.md
   - Syllabus: syllabus.md
   - Contact information: contact.md
