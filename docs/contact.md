@@ -17,6 +17,6 @@ email.
 
 ### Teaching Assistant
 
-- **Name:** Sunjay Cauligy
+- **Name:** Sunjay Cauligi
 - **Email:** <scauligi+cse227@cs.ucsd.edu>
 - **Office:** CSE 3148 
