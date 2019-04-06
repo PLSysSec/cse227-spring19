@@ -11,14 +11,14 @@ Apr 15 [^1]| [RockSalt: Better, Faster, Stronger SFI for the x86](papers/rocksal
 Apr 17     | [AEG: Automatic Exploit Generation](papers/aeg.pdf) by T. Avgerinos et al. 
 Apr 22     | [How to Build Static Checking SystemsUsing Orders of Magnitude Less Code](papers/uchex.pdf) by F. Brown et al.
            | <center>**Memory safety**</center>
-Apr 24 [^2]| [The Meaning of Memory Safety](papers/amorim:memory.pdf) by A. A. Amorim et al. 
+Apr 24 [^2]| [The Meaning of Memory Safety](papers/amorim:memory.pdf) by A. A. Amorim et al. (lead: Matthew Kolosick)
 Apr 29     | No class
 Apr 31     | [Memory-safe Execution of C on a Java VM](papers/safec.pdf) by M Grimmer et al.
            | <center>**Low-level security**</center>
 May 1      | [Hacking Blind](papers/brop.pdf) by A. Bittau et al.
 May 6      | [SoK: Shining Light on Shadow Stacks](papers/burrow:sok-shadow-stacks.pdf) by N. Burrows et al.
            | <center>**Side channels**</center>
-May 8      | [Spectre Attacks: Exploiting Speculative Execution](papers/spectre.pdf) by P. Kocher et al.
+May 8      | [Spectre Attacks: Exploiting Speculative Execution](papers/spectre.pdf) by P. Kocher et al. (lead: Archit Mishra)
 May 13     | [Lucky Thirteen: Breaking the TLS and DTLS Record Protocols](papers/lucky13.pdf) by  N. J. AlFardan and K. G. Paterson.
            | <center>**Crypto**</center>
 May 25     | [Implementing and Proving the TLS 1.3 Record Layer](papers/tls1.3.pdf) by A. Delignat-Lavaud et al.
