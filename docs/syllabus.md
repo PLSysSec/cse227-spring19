@@ -22,9 +22,9 @@ May 8      | [Spectre Attacks: Exploiting Speculative Execution](papers/spectre.
 May 13     | [Lucky Thirteen: Breaking the TLS and DTLS Record Protocols](papers/lucky13.pdf) by  N. J. AlFardan and K. G. Paterson.
            | <center>**Crypto**</center>
 May 25     | [Implementing and Proving the TLS 1.3 Record Layer](papers/tls1.3.pdf) by A. Delignat-Lavaud et al.
-May 20     | [The first collision for full SHA-1](papers/sha1.pdf) by M. Stevens et al.
+May 20     | [The first collision for full SHA-1](papers/sha1.pdf) by M. Stevens et al. (Mark Shultz)
            | <center>**Verified operating systems**</center>
-May 22     | [seL4: Formal Verificaiton of an OS Kernel](papers/sel4.pdf) by G. Klein et al.
+May 22     | [seL4: Formal Verificaiton of an OS Kernel](papers/sel4.pdf) by G. Klein et al. (Shraddha Barke)
 May 27     | No class
 May 29     | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by L. Nelson et al.
            | <center>**Looking back**</center>
