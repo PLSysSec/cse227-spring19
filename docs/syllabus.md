@@ -9,7 +9,7 @@ Apr 10     | No class
 Apr 15 [^1]| [RockSalt: Better, Faster, Stronger SFI for the x86](papers/rocksalt.pdf) by G. Morrisett et al.
            | <center>**Static and symbolic analysis**</center>
 Apr 17     | [AEG: Automatic Exploit Generation](papers/aeg.pdf) by T. Avgerinos et al.  (lead by Stewart Grant and Shu-Ting Wang)
-Apr 22     | [How to Build Static Checking SystemsUsing Orders of Magnitude Less Code](papers/uchex.pdf) by F. Brown et al.
+Apr 22     | [How to Build Static Checking SystemsUsing Orders of Magnitude Less Code](papers/uchex.pdf) by F. Brown et al. (lead by Jeffrey Wang)
            | <center>**Memory safety**</center>
 Apr 24 [^2]| [The Meaning of Memory Safety](papers/amorim:memory.pdf) by A. A. Amorim et al. (lead: Matthew Kolosick)
 Apr 29     | No class
