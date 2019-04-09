@@ -8,7 +8,7 @@ Apr 8      | [Protecting Users by Confining JavaScript with COWL](papers/cowl.pd
 Apr 10     | No class
 Apr 15 [^1]| [RockSalt: Better, Faster, Stronger SFI for the x86](papers/rocksalt.pdf) by G. Morrisett et al.
            | <center>**Static and symbolic analysis**</center>
-Apr 17     | [AEG: Automatic Exploit Generation](papers/aeg.pdf) by T. Avgerinos et al. 
+Apr 17     | [AEG: Automatic Exploit Generation](papers/aeg.pdf) by T. Avgerinos et al.  (lead by Stewart Grant and Shu-Ting Wang)
 Apr 22     | [How to Build Static Checking SystemsUsing Orders of Magnitude Less Code](papers/uchex.pdf) by F. Brown et al.
            | <center>**Memory safety**</center>
 Apr 24 [^2]| [The Meaning of Memory Safety](papers/amorim:memory.pdf) by A. A. Amorim et al. (lead: Matthew Kolosick)
@@ -21,12 +21,12 @@ May 6      | [SoK: Shining Light on Shadow Stacks](papers/burrow:sok-shadow-stac
 May 8      | [Spectre Attacks: Exploiting Speculative Execution](papers/spectre.pdf) by P. Kocher et al. (lead: Archit Mishra)
 May 13     | [Lucky Thirteen: Breaking the TLS and DTLS Record Protocols](papers/lucky13.pdf) by  N. J. AlFardan and K. G. Paterson.
            | <center>**Crypto**</center>
-May 25     | [Implementing and Proving the TLS 1.3 Record Layer](papers/tls1.3.pdf) by A. Delignat-Lavaud et al.
+May 25     | [Implementing and Proving the TLS 1.3 Record Layer](papers/tls1.3.pdf) by A. Delignat-Lavaud et al. (lead by Vivek Arte)
 May 20     | [The first collision for full SHA-1](papers/sha1.pdf) by M. Stevens et al. (Mark Shultz)
            | <center>**Verified operating systems**</center>
 May 22     | [seL4: Formal Verificaiton of an OS Kernel](papers/sel4.pdf) by G. Klein et al. (Shraddha Barke)
 May 27     | No class
-May 29     | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by L. Nelson et al.
+May 29     | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by L. Nelson et al. (lead by Stewart Grant and Shu-Ting Wang)
            | <center>**Looking back**</center>
 Jun  3     | [Some thoughts on security after ten years of qmail 1.0](papers/qmailsec.pdf) by D. J. Bernstein
 Jun  5     | [Thirty Years Later: Lessons from the Multics Security Evaluation](papers/karger:thirty.pdf) by P. A. Karger and R. R. Schell
