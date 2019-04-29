@@ -13,7 +13,7 @@ email.
 - **Name:** [Deian Stefan](https://cseweb.ucsd.edu/~dstefan/)
 - **Email:** <deian+cse227@cs.ucsd.edu>
 - **Office:** CSE 3126 
-- **Office Hours:** Fridays 3:00-4:00PM or by appointment
+- **Office Hours:** Fridays 2:00-3:00PM or by appointment
 
 ### Teaching Assistant
 
